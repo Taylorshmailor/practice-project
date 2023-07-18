@@ -1,0 +1,22 @@
+// Taylor review
+
+// imports
+// using different packages (ex. moment, styled, material-ui)
+// custom styles
+// creating custom components
+// using props
+// using state
+// using hooks
+// transforming data (creating new tasks, filtering out old tasks)
+
+
+// Notes* 
+// remember props is an Object
+// you can destructure objects ex. =>  const { name, age } = person
+// you can also use props.name or props.age style
+
+// remember for map, filter, reduce you need to return something, forEach does not return anything
+// ex. const newTasks = tasks.filter((task) => task.id !== id) 
+
+// remember to break down a problem into as many small steps as possible
+// remember to 
